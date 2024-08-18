@@ -1,2 +1,1 @@
-# goit-advancedjs-hw-05
-Homework for module 9 of Advanced JavaScript and Typescript: Tools and Best Practices
+Pages: https://gloomcat.github.io/goit-advancedjs-hw-05/
