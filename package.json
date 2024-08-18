@@ -1,20 +1,17 @@
 {
   "name": "goit-advancedjs-hw-05",
-  "private": true,
   "version": "0.0.1",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build --base=/goit-advancedjs-hw-05/",
-    "preview": "vite preview"
-  },
+  "description": "Test typescript project",
+  "main": "index.js",
   "devDependencies": {
-    "glob": "^8.1.0",
-    "vite": "^4.5.2"
+    "@web/dev-server": "^0.4.6"
   },
-  "dependencies": {
-    "modern-normalize": "^2.0.0",
-    "vite-plugin-full-reload": "^1.0.5",
-    "vite-plugin-html-inject": "^1.0.1"
-  }
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

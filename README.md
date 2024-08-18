@@ -1,1 +1,1 @@
-Pages: https://gloomcat.github.io/goit-advancedjs-hw-05/
+Test typescript project
